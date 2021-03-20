@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MadUI</string>
+    <string name="msg1"> Hi, I am text msg1</string>
 </resources>
